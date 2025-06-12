@@ -47,6 +47,10 @@ A simple C++ program that helps you explore insights and interesting facts about
 
 If you're learning languages or just curious about the reach of your linguistic skills, this tool helps visualize your language knowledge in a fun and interactive way.
 
+## Background
+
+I originally created this program because I was looking for a similar tool online for my own use but couldn’t find anything that matched what I wanted. So, I decided to build a simple prototype myself — including 8 languages — to experiment with and learn from while having fun.
+
 ## Author
 
 **Mohamed El-Abiad**
