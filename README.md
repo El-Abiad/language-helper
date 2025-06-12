@@ -13,19 +13,29 @@ A simple C++ program that helps you explore insights and interesting facts about
 
 ## How to Use
 
-1. Compile the program:
+1. Download the code:
+
+   * Click the green **"Code"** button on [GitHub](https://github.com/El-Abiad/language-helper) and choose **Download ZIP**
+   * Or clone it using Git:
+
+     ```bash
+     git clone https://github.com/El-Abiad/language-helper.git
+     cd language-helper
+     ```
+
+2. Compile the program:
 
    ```bash
    g++ -o language_helper language-helper.cpp
    ```
 
-2. Run it:
+3. Run it:
 
    ```bash
    ./language_helper
    ```
 
-3. Follow the menu options:
+4. Follow the menu options:
 
    * Press `1` to add a language you know
    * Press `2` to remove a language
